@@ -1,3 +1,11 @@
+//Senaryo: Bir E-Ticaret Sitesinde Ürün Arama
+//Bir e-ticaret sitesine gidin (örneğin, https://www.amazon.com).
+//Ana sayfada bir arama kutusu bulun ve bu kutuya bir ürün adı yazın (örneğin, "laptop").
+//Arama kutusuna yazdığınız ürün adını aramak için "Enter" tuşuna basın.
+//Arama sonuçları sayfasında, ilk ürünün adını ve fiyatını kontrol edin.
+//İlk ürünün detay sayfasına gidin.
+
+
 package com.vuealfasoftware.webapp;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
